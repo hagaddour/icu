@@ -429,7 +429,7 @@ Some suggestions:
     possible to do something completely in one large expression doesn't mean
     that you should. Long expressions are difficult to understand and can be
     almost impossible to debug when they go wrong. It is no sin to break a
-    parsing problem into pieces and to have some code involved involved in the
+    parsing problem into pieces and to have some code involved in the
     process.
 
 *   Set a time limit. ICU includes the ability to limit the time spent on a
